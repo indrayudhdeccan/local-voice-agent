@@ -1,6 +1,6 @@
 # Voice Agent (Local ASR + Local LLM + Local TTS)
 
-Production-oriented local voice assistant with:
+A naive local voice assistant with:
 - ASR via `faster-whisper`
 - LLM via local `transformers` model loading
 - TTS via Kokoro (`hexgrad/Kokoro-82M`) with `pyttsx3` fallback
